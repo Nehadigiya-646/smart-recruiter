@@ -1,0 +1,6 @@
+streamlit
+pypdf2
+nltk
+scikit-learn
+sentence-transformers
+fpdf2
