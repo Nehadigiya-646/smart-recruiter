@@ -63,7 +63,7 @@ streamlit run app.py
 
 ## 🌐 Live Demo
 
-👉 (Add your Streamlit link here after deployment)
+https://smart-recruiter-mxsqrd5qv2typfqwwygmyn.streamlit.app/
 
 ---
 
